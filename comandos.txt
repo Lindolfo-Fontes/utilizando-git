@@ -10,5 +10,5 @@ git add .
 -> Salva uma nova versão do arquivo (-m se refere ao comentário colocado entre aspas)
 git commit -m "Porque estou salvando?"
 
--> Envia informações do computador para o Github
+-> Envia informações do commit do computador para o Github
 git push
